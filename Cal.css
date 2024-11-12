@@ -1,0 +1,29 @@
+h1 {
+  color: brown;
+  text-align: center;
+}
+#maindiv {
+  height: 650px;
+  width: 500px;
+  border: solid black;
+  margin-left: 500px;
+}
+#display {
+  border: dotted black;
+  margin-left: 10%;
+  margin-top: 10%;
+  height: 50px;
+  width: 400px;
+}
+#buttons {
+  /* width: 250px;
+  height: 500px;
+  border: solid green; */
+  margin-left: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+button {
+  width: 70px;
+  height: 70px;
+}
